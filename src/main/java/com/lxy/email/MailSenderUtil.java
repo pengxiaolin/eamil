@@ -23,7 +23,7 @@ public class MailSenderUtil {
     //从配置文件中读取相应的邮件配置属性
     private static final String emailHost = "smtp.qq.com";
     private static final String userName = "502767540@qq.com";
-    private static final String password = "ganztsydsddycaff";// 如果qq账户 需后台开启stmp以及获取授权码
+    private static final String password = "xxxxxx";// 如果qq账户 需后台开启stmp以及获取授权码
     private static final String mailAuth = "true";
     private static Map<String, Object> proMap = null;
     private static JavaMailSenderImpl instance = null;
