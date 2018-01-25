@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>开发环境配置中心</comment>
+    <entry key="email.count">http://192.168.13.156:8080/task/task/v1/callBack</entry>
+</properties>
+
